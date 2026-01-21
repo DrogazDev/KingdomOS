@@ -1,7 +1,7 @@
 
-# Drogaz's Oorlogsimulatie
+# Drogaz's KingdomOS
 
-Dit is een open-source oorlogsimulatie plugin voor kingdom servers of voor kingdoms onderling. Je kunt de plugin downloaden via de links hieronder of via de latest release op GitHub. Heb je suggesties voor de plugin laat het dan weten via een [Issue](https://github.com/DrogazDev/DrogazOorlogsimulatie/issues) of via mijn discord
+Dit is een open-source oorlogsimulatie plugin voor kingdom servers of voor kingdoms onderling. Je kunt de plugin downloaden via de links hieronder of via de latest release op GitHub. Heb je suggesties voor de plugin laat het dan weten via een [Issue](https://github.com/DrogazDev/KingdomOS/issues) of via mijn discord
 
 Als je benieuwd bent wat er allemaal op mijn lijstje staat om mee bezig te gaan, kun je naar mijn [project board](https://github.com/users/DrogazDev/projects/3) gaan
 
